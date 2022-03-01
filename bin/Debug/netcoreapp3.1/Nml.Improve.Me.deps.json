@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Nml.Improve.Me/1.0.0": {
+        "runtime": {
+          "Nml.Improve.Me.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Nml.Improve.Me/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

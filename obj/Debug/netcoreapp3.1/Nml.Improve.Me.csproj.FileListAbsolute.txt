@@ -1,0 +1,20 @@
+/Users/amosmoholola/Downloads/2022-03-01- Nml.Improve.Me- 2/bin/Debug/netcoreapp3.1/Nml.Improve.Me.deps.json
+/Users/amosmoholola/Downloads/2022-03-01- Nml.Improve.Me- 2/bin/Debug/netcoreapp3.1/Nml.Improve.Me.dll
+/Users/amosmoholola/Downloads/2022-03-01- Nml.Improve.Me- 2/bin/Debug/netcoreapp3.1/Nml.Improve.Me.pdb
+/Users/amosmoholola/Downloads/2022-03-01- Nml.Improve.Me- 2/obj/Debug/netcoreapp3.1/Nml.Improve.Me.csproj.AssemblyReference.cache
+/Users/amosmoholola/Downloads/2022-03-01- Nml.Improve.Me- 2/obj/Debug/netcoreapp3.1/Nml.Improve.Me.GeneratedMSBuildEditorConfig.editorconfig
+/Users/amosmoholola/Downloads/2022-03-01- Nml.Improve.Me- 2/obj/Debug/netcoreapp3.1/Nml.Improve.Me.AssemblyInfoInputs.cache
+/Users/amosmoholola/Downloads/2022-03-01- Nml.Improve.Me- 2/obj/Debug/netcoreapp3.1/Nml.Improve.Me.AssemblyInfo.cs
+/Users/amosmoholola/Downloads/2022-03-01- Nml.Improve.Me- 2/obj/Debug/netcoreapp3.1/Nml.Improve.Me.csproj.CoreCompileInputs.cache
+/Users/amosmoholola/Downloads/2022-03-01- Nml.Improve.Me- 2/obj/Debug/netcoreapp3.1/Nml.Improve.Me.dll
+/Users/amosmoholola/Downloads/2022-03-01- Nml.Improve.Me- 2/obj/Debug/netcoreapp3.1/Nml.Improve.Me.pdb
+/Users/amosmoholola/Downloads/2022-03-01- Nml.Improve.Me/bin/Debug/netcoreapp3.1/Nml.Improve.Me.deps.json
+/Users/amosmoholola/Downloads/2022-03-01- Nml.Improve.Me/bin/Debug/netcoreapp3.1/Nml.Improve.Me.dll
+/Users/amosmoholola/Downloads/2022-03-01- Nml.Improve.Me/bin/Debug/netcoreapp3.1/Nml.Improve.Me.pdb
+/Users/amosmoholola/Downloads/2022-03-01- Nml.Improve.Me/obj/Debug/netcoreapp3.1/Nml.Improve.Me.csproj.AssemblyReference.cache
+/Users/amosmoholola/Downloads/2022-03-01- Nml.Improve.Me/obj/Debug/netcoreapp3.1/Nml.Improve.Me.GeneratedMSBuildEditorConfig.editorconfig
+/Users/amosmoholola/Downloads/2022-03-01- Nml.Improve.Me/obj/Debug/netcoreapp3.1/Nml.Improve.Me.AssemblyInfoInputs.cache
+/Users/amosmoholola/Downloads/2022-03-01- Nml.Improve.Me/obj/Debug/netcoreapp3.1/Nml.Improve.Me.AssemblyInfo.cs
+/Users/amosmoholola/Downloads/2022-03-01- Nml.Improve.Me/obj/Debug/netcoreapp3.1/Nml.Improve.Me.csproj.CoreCompileInputs.cache
+/Users/amosmoholola/Downloads/2022-03-01- Nml.Improve.Me/obj/Debug/netcoreapp3.1/Nml.Improve.Me.dll
+/Users/amosmoholola/Downloads/2022-03-01- Nml.Improve.Me/obj/Debug/netcoreapp3.1/Nml.Improve.Me.pdb

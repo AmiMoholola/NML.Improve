@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "6ZIu/D2aaKGQ/O/ZCmWTrZzinfqCz2Jn8ZrU0RdYrLnMNC5qpfodwhdLdhWgDkaNRdIPVJhGW+YJjZCeLP9O3g==",
+  "success": true,
+  "projectFilePath": "/Users/amosmoholola/Downloads/2022-03-01- Nml.Improve.Me/Nml.Improve.Me.csproj",
+  "expectedPackageFiles": [
+    "/Users/amosmoholola/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/amosmoholola/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
